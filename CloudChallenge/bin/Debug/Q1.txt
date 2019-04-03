@@ -1,0 +1,12 @@
+GET https://www.instagram.com/graphql/query/?query_hash=56066f031e6239f35a904ac20c9f37d9&variables=%7B%22id%22%3A%22314216%22%2C%22include_reel%22%3Atrue%2C%22fetch_mutual%22%3Atrue%2C%22first%22%3A100%7D HTTP/1.1
+Host: www.instagram.com
+Connection: keep-alive
+Accept: */*
+X-Requested-With: XMLHttpRequest
+X-Instagram-GIS: 04faf355fde36079dffa7321a802ad33
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+X-IG-App-ID: 936619743392459
+Referer: https://www.instagram.com/zuck/followers/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: mcd=3; mid=XAP5yQAEAAGKWYSa5qrWl8L-IoxD; shbid=2291; shbts=1554213308.0655916; rur=FRC; fbm_124024574287414=base_domain=.instagram.com; fbsr_124024574287414=r86VIfJBfIM9-TZc8v2KlQoFs5bByIQbMg8BgbIeJkU.eyJjb2RlIjoiQVFCYXJ3TGktOXZsQlk2UkJ0akY5RFZEdXZYbHJmRkc4a1VNRWFDck5zM0ItZ1ZmNENiTGFsN2NoVVpndk5vUVk4ZExmRjlBRXJyQnlYRU5BVGxha2pWWm5QUDV2SjhweFlUMTZjMDVxbnVNSTVoaHN5Y1lGWjhaZUhCYkRteWs3alI0NjEzN3JWVnAxaW5hQ251NjZHNXlXRDhTRy1nZGFpWWNkLWF6SHNFTEVLM0pIOVd3bEd0LWlmaDI2WDBreE1xb1hHYldiU295NHhmVkltczNVeG5nTDE4VVF2MFB5RmVGd3J6aXBfbU1LWG9QeUNXT1FLdU1IcmVZWVpNWjlDTnQxZUxlVmdReGNlTUhDQ28yQ1Z6ZnFKQ2VsbkhXaDIyZXZ0dFp4cUUtNjFiU19BZ1h5cm9mQjRuX3dad3ZuMUg2X1k4UklHS1NIajJORDNfcWNEdXciLCJ1c2VyX2lkIjoiMTAwMDAyOTEyNzk1NTk3IiwiYWxnb3JpdGhtIjoiSE1BQy1TSEEyNTYiLCJpc3N1ZWRfYXQiOjE1NTQyMTQ0Mzl9; csrftoken=LYAyq7ajdqYafVF6fka50TlVq2NA4gb5; ds_user_id=6931796646; sessionid=6931796646%3AdzwbuYUx9h62Nj%3A24; urlgen="{\"194.90.18.242\": 1680}:1hBKF4:dwl-XiwPrNcHtihK8xzpmFN7YCE"

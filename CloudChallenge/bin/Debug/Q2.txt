@@ -1,0 +1,12 @@
+GET https://www.instagram.com/graphql/query/?query_hash=c56ee0ae1f89cdbd1c89e2bc6b8f3d18&variables=%7B%22id%22%3A%2211645073274%22%2C%22include_reel%22%3Atrue%2C%22fetch_mutual%22%3Afalse%2C%22first%22%3A24%7D HTTP/1.1
+Host: www.instagram.com
+Connection: keep-alive
+Accept: */*
+X-Requested-With: XMLHttpRequest
+X-Instagram-GIS: a92347aaba7b959f4292720e5e5a528f
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+X-IG-App-ID: 936619743392459
+Referer: https://www.instagram.com/cloudresearch11/following/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: mid=XIE6TgAEAAGy8tMZr7_d8RNUT4LB; csrftoken=6e6BOXtorzo7LiFRl48j6jVRkrbbvc9p; ds_user_id=11645073274; sessionid=11645073274%3AnqMD5MRtFGoY0Y%3A9; rur=FRC; urlgen="{\"194.90.18.242\": 1680}:1h1vIy:Owna2_-qaREJbjMamrSehdlVJbk"
